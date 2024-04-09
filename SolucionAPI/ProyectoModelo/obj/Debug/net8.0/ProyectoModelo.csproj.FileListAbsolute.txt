@@ -1,0 +1,11 @@
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\bin\Debug\net8.0\ProyectoModelo.deps.json
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\bin\Debug\net8.0\ProyectoModelo.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\bin\Debug\net8.0\ProyectoModelo.pdb
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\refint\ProyectoModelo.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ProyectoModelo.pdb
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoModelo\obj\Debug\net8.0\ref\ProyectoModelo.dll

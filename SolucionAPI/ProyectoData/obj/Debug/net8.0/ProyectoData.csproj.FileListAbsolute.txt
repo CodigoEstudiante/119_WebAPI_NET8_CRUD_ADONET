@@ -1,0 +1,15 @@
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\bin\Debug\net8.0\ProyectoData.deps.json
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\bin\Debug\net8.0\ProyectoData.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\bin\Debug\net8.0\ProyectoData.pdb
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\bin\Debug\net8.0\ProyectoModelo.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\bin\Debug\net8.0\ProyectoModelo.pdb
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\Proyecto.A3672699.Up2Date
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\refint\ProyectoData.dll
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ProyectoData.pdb
+E:\WorkSpaceAD\YOUTUBE\119 CRUD NET 8 WEB API ADO. NET\SolucionAPI\ProyectoData\obj\Debug\net8.0\ref\ProyectoData.dll
